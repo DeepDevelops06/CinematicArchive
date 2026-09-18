@@ -1,0 +1,5 @@
+out/
+*.class
+cinematic_archive.db
+archive_data.txt
+.DS_Store

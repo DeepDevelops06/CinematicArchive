@@ -30,3 +30,6 @@ A modular Java CLI application built to manage cinematic records, user ratings, 
 *  Concurrency Testing: Select Option 6 to trigger the batch import. Immediately type 2 and press Enter to view the catalog while the background thread continues to log imported records asynchronously.
 
 ## Screenshots
+<img width="485" height="197" alt="image" src="https://github.com/user-attachments/assets/9475534a-c9f7-4f0d-a4cb-58dcdca4c672" />
+<img width="485" height="180" alt="image" src="https://github.com/user-attachments/assets/89da246a-dd98-48e0-b1d4-546c61029c89" />
+<img width="491" height="136" alt="image" src="https://github.com/user-attachments/assets/e92522ee-de95-456b-876c-25c7f3bb057a" />
